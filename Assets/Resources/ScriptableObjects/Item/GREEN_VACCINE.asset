@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb00124e7bf6f404382fe9244cd7cb95, type: 3}
+  m_Name: GREEN_VACCINE
+  m_EditorClassIdentifier: 
+  itemSprite: {fileID: 350349278, guid: 354cf6907ae2a0146867aefd31dc46d5, type: 3}
+  itemName: Green Vaccine
+  itemLevel: 2
+  itemCode: 3
+  itemType: 0
+  effects:
+  - key: 0
+    value: 10
+  - key: 1
+    value: 3
+  - key: 4
+    value: 7
+  specialInfo: Green vaccine
+  itemPrice: 20
