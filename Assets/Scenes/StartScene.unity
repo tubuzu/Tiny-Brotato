@@ -327,6 +327,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!483693784 &134338389
 TilemapRenderer:
   m_ObjectHideFlags: 0
@@ -10155,7 +10156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -86.10986, y: -90.82007}
+  m_AnchoredPosition: {x: -86.10986, y: -90.8201}
   m_SizeDelta: {x: -979.05, y: -397.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1379457143
@@ -10919,6 +10920,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!222 &1865513132
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -23,7 +23,8 @@ public class EnemyAnimation : CharacterAnimation
     protected override void OnEnable()
     {
         base.OnEnable();
-        spriteRenderer.color = Color.white;
+        originalColor.a = 1.0f;
+        spriteRenderer.color = originalColor;
         canChangeAnim = true;
     }
 
